@@ -4,11 +4,11 @@ Computer Science student at Michigan State University interested in software dev
 
 ## About Me
 
-- 🎓 B.S. Computer Science — Michigan State University
-- 📅 Expected graduation: May 2028
-- 💻 Building projects with Python, C++, Java, and JavaScript
-- 🌐 Developing skills in Linux, networking, and cybersecurity
-- 🛠️ Interested in practical software, systems, and technology projects
+- B.S. Computer Science — Michigan State University
+- Expected graduation: May 2028
+- Building projects with Python, C++, Java, and JavaScript
+- Developing skills in Linux, networking, and cybersecurity
+- Interested in practical software, systems, and technology projects
 
 ## Featured Projects
 
